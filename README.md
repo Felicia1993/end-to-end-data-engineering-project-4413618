@@ -39,7 +39,8 @@ Ensure you have Python 3 installed. If not, you can download and install it from
 Thalia Barrera 
                             
 
-
+What I have done:
+1. Signed up to the Google Cloud Service, created a new project and a big query dataset with the necessary permissions to integrate our ELT tools. The playground is set to the project.
                             
 
 Check out my other courses on [LinkedIn Learning](https://www.linkedin.com/learning/instructors/thalia-barrera).
